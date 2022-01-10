@@ -1,8 +1,5 @@
 # Tip Calculator
 
-A sample React and Redux application for teaching React and Redux.
-
-Part of the [Redux Fundamentals](https://stevekinney.github.io/redux-fundamentals) course for [Frontend Masters](https://frontendmasters.com).
 
 ## Building a Tip Calculator in Redux
 
@@ -799,6 +796,3 @@ const mapStateToProps = (state) => {
 };
 ```
 
-## Homework
-
-Map the state to the final calculations at the bottom. You should be using selectors.
